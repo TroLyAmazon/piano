@@ -57,6 +57,12 @@ let allMusic = [
     artist: "Fool's Garden",
     img: "LemonTree",
     src: "LemonTree"
+  },
+  {
+    name: "Canon In D",
+    artist: "Pachelbel's Canon",
+    img: "CanonInD",
+    src: "CanonInD"
   } 
   // like this paste it and remember to give comma after ending of this bracket }
   // {
