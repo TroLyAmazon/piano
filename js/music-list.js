@@ -69,7 +69,13 @@ let allMusic = [
     artist: "Vicetone",
     img: "Nevada",
     src: "Nevada"
-  }
+  },
+  {
+    name: "Tiệc Trà Sao 星茶会",
+    artist: "Khôi Triệt (Hui Che)",
+    img: "TiecTraSao",
+    src: "TiecTraSao"
+  } 
   // like this paste it and remember to give comma after ending of this bracket }
   // {
   //   name: "Here is the music name",
