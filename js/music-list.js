@@ -75,6 +75,12 @@ let allMusic = [
     artist: "Khôi Triệt (Hui Che)",
     img: "TiecTraSao",
     src: "TiecTraSao"
+  },
+  {
+    name: "Lily",
+    artist: "Alan Walker & K-391",
+    img: "Lily",
+    src: "Lily"
   } 
   // like this paste it and remember to give comma after ending of this bracket }
   // {
