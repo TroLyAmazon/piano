@@ -39,6 +39,12 @@ let allMusic = [
     artist: "Nhạc Phim",
     img: "Howl'sMovingCastle",
     src: "Howl'sMovingCastle"
+  },
+  {
+    name: "Kill Bill ",
+    artist: "SZA",
+    img: "NoIMG",
+    src: "KillBill"
   } 
   // like this paste it and remember to give comma after ending of this bracket }
   // {
