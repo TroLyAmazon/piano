@@ -37,8 +37,8 @@ let allMusic = [
   {
     name: "Howl's Moving Castle ",
     artist: "Nhạc Phim",
-    img: "Howl'sMovingCastle",
-    src: "Howl'sMovingCastle"
+    img: "HowlsMovingCastle",
+    src: "HowlsMovingCastle"
   },
   {
     name: "Kill Bill ",
