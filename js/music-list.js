@@ -43,7 +43,7 @@ let allMusic = [
   {
     name: "Kill Bill ",
     artist: "SZA",
-    img: "NoIMG",
+    img: "KillBill",
     src: "KillBill"
   } 
   // like this paste it and remember to give comma after ending of this bracket }
