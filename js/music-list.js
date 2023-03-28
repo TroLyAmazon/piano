@@ -93,7 +93,13 @@ let allMusic = [
     artist: "Lost Frequencies",
     img: "Reality",
     src: "Reality"
-  }
+  },
+  {
+    name: "Let Me Love You",
+    artist: "DJ Snake",
+    img: "LetMeLoveYou",
+    src: "LetMeLoveYou"
+  } 
   // like this paste it and remember to give comma after ending of this bracket }
   // {
   //   name: "Here is the music name",
