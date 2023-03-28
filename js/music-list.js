@@ -81,7 +81,19 @@ let allMusic = [
     artist: "Alan Walker & K-391",
     img: "Lily",
     src: "Lily"
-  } 
+  },
+  {
+    name: "Mặt Mộc",
+    artist: "Phạm Nguyên Ngọc và Ân Nhi",
+    img: "MatMoc",
+    src: "MatMoc"
+  },
+  {
+    name: "Reality",
+    artist: "Lost Frequencies",
+    img: "Reality",
+    src: "Reality"
+  }
   // like this paste it and remember to give comma after ending of this bracket }
   // {
   //   name: "Here is the music name",
