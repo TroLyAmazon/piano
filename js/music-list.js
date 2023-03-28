@@ -99,6 +99,12 @@ let allMusic = [
     artist: "DJ Snake",
     img: "LetMeLoveYou",
     src: "LetMeLoveYou"
+  },
+  {
+    name: "Hết Yêu Thật Sao",
+    artist: "JSOL",
+    img: "HetYeuThatSao",
+    src: "HetYeuThatSao"
   } 
   // like this paste it and remember to give comma after ending of this bracket }
   // {
