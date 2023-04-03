@@ -117,6 +117,24 @@ let allMusic = [
     artist: "Andiez",
     img: "SuytNuaThi",
     src: "SuytNuaThi"
+  },
+  {
+    name: "Gió",
+    artist: "N/A",
+    img: "Gio",
+    src: "Gio"
+  },
+  {
+    name: "Đồng Thoại",
+    artist: "N/A",
+    img: "DongThoai",
+    src: "DongThoai"
+  },
+  {
+    name: "Lạ Lùng",
+    artist: "Vũ",
+    img: "LaLung",
+    src: "LaLung"
   }
   // like this paste it and remember to give comma after ending of this bracket }
   // {
