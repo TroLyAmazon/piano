@@ -153,7 +153,13 @@ let allMusic = [
     artist: "Noo Phước Thịnh",
     img: "CauseIloveyou",
     src: "CauseIloveyou"
-  }
+  },
+  {
+    name: "Tabun",
+    artist: "Yoasobi",
+    img: "Tabun",
+    src: "Tabun"
+  } 
   // like this paste it and remember to give comma after ending of this bracket }
   // {
   //   name: "Here is the music name",
